@@ -1,2 +1,2 @@
 # Practice
-learning devops
+Learning devops
